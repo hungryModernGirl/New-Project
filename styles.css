@@ -1,0 +1,9 @@
+body {
+    background-color: #42b0f4;
+}
+
+img {
+    display: none;
+    width: 200px;
+    margin-left: 100px;
+}
